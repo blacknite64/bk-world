@@ -1,0 +1,6 @@
+another 
+
+sample file         for text
+title = "story-sb-edit.txt"
+
+Bye
